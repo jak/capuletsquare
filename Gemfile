@@ -19,6 +19,7 @@ group :development do
   gem 'guard-bundler'
   gem 'guard-rails'
   gem 'guard-rspec'
+  gem 'terminal-notifier-guard'
   gem 'hub', :require=>nil
   gem 'quiet_assets'
   gem 'rails_layout'
